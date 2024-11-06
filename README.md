@@ -4,4 +4,4 @@ Rust Journey is a curated collection of Rust programming examples and projects f
 ## Table of Contents
 - [00-Intro](./00-intro/)
     - [Overview](./00-intro/overview.md)
-    - [Cargo](./00-intro/carg.md)
+    - [Cargo](./00-intro/cargo.md)
